@@ -50,7 +50,7 @@ The notebook covers:
 - (No map visualization, but complete numeric & categorical insights)  
 
 📌 **Preview:**  
-![Excel Dashboard](./Screenshot%202025-10-02%20122205.png)  
+![image alt](https://github.com/MangalMurmu17/Data_Analytics-Road_Accident-/blob/cb07633038b5d11f7deae40a6f98442bd670af0d/Excel_Dashboard/Screenshot%202025-10-02%20172034.png)  
 
 ---
 
