@@ -39,7 +39,7 @@ The notebook covers:
 - Accident severity trend (Fatal, Serious, Slight)  
 
 📌 **Preview:**  
-![Tableau Dashboard](./Screenshot%202025-10-02%20171937.png)  
+![image alt](https://github.com/MangalMurmu17/Data_Analytics-Road_Accident-/blob/06f5aef3f774cb93495753b9239f9b1677020765/Tableau_Dashboard/Screenshot%202025-10-02%20171937.png)  
 
 ---
 
